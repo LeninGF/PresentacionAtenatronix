@@ -1,0 +1,8 @@
+Id,Compra/Contrato,Método de Selección de Proveedor/ Candidato,Costo Estimado,Fecha Compra,Medio,Duración
+HW01,"Adquisición de 5 computadores con Tarjetas Gráficas (NVIDIA 4GB), 1TB de disco, 12 GB Ram",Recepción de 4 ofertas a ser seleccionadas por el proceso de Atenatronix,7500,1/20/2021,Factura,4 años
+HW02,Adquisición de 1 Servidor DELL POWEREDGE T640 5118/8G/600G SAS 10K/H330/DVDRW/495W/3.5-8 SEVER,Recepción de 4 ofertas a ser seleccionadas por el proceso de Atenatronix,3568,2/2/2021,Factura,4 años
+SW01,Adquisición de 5 Licencias Pycharm Profesional,Orden de Compra,3245,2/2/2021,Factura,1 año
+SW02,Adquisición de Servicios de Cloud Computing de Google,Orden de Compra,24761.16,2/2/2021,Factura,1año
+TH01,Contratación M.Sc. Machine Learning Junior,Selección de Personal,14400,1/25/2021,Contrato,1 año
+TH02,Contratción Especialista Machine Learning PHD,Selección de Personal,36000,1/25/2021,Contrato,1 año
+TH03,Contratación Especialista Datamining,Selección de Personal,24000,1/25/2021,Contrato,1 año

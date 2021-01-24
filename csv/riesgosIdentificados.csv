@@ -1,0 +1,6 @@
+Id,Riesgo,Tipo,Causas,Objetivos Impacta,Respuesta
+R01,Infraestrcutura tecnológica no suple los requerimientos de cómputo,Negativo,No disponibilidad del hardware. Error de especificaciones técnicas y funcionales de los equipos,Desarrollo del Motor de Recomendación,Redimensionamiento y ampliación de recursos de hardware instalados
+R02,No disponibilidad de los servicios en la nube,Negativo,Demora en la contratación de servicios. Problemas de Financiamiento a largo plazo,Desarrollo de la Aplicación,Monitorear el gasto en recursos de software y cloud computing
+R03,Personal con deficiencias en el desarrollo de aplicaciones de Aprendizaje Automático,Negativo,No dispone de conocimientos en el área específica,Desarrollo del Motor de Recomendación,Capacitar o contratar personal calificado
+R04,Personal con especialización resulta muy caro,Negativo,Falta de personal con dicha capacitación,Integración de la Aplicación,Capacitar al personal. Buscar Financiamiento
+R05,Aplicación no cumple los objetivos de rendimiento y procesamiento,Negativo,Objetivos sobredimensionados,Pruebas y Entregables,Revisar que los objetivos estén de la mano de los requerimientos y valores institucionales

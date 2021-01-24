@@ -1,0 +1,9 @@
+Id.,Nombre,Puesto,Rol,Influencia,Fase Interés,Pertenencia,Clasificación
+Id001,Silvana Arévalo,Director de Proyecto,Ejecutivo,Alto,"Análisis de Requerimientos, Implementación",Interno,Neutral
+Id002,Lenin G. F.,Gerente General,Ejecutivo,Alto,Análisis de Requerimientos,Interno,Neutral
+Id003,Juan H.,Jefe Financiero,Ejecutivo,Alto,Análisis de Requerimientos,Interno,Resiste
+Id004,Alejandro A.,Jefe de Ventas,Ejecutivo,Alto,Implementación,Interno,Apoya
+Id005,Diego R.,Jefe de Adquisiciones,Ejecutivo,Bajo,"Análisis de Requerimientos, Implementación",Interno,Neutral
+Id006,Andres B.,Jefe de Ingeniería,Técnico,Bajo,Análisis de Requerimientos,Interno,Neutral
+Id007,Edith C.,Patrocinador,Ejecutivo,Medio,Inicio del Proyecto,Interno,Apoya
+Id008,John Doe,Líder Técnico,Técnico,Alto,Implementación,Interno,Apoya
